@@ -9,7 +9,12 @@ Exemplos: grande quantidade de notas de manutenção pendentes no sistema e de i
 Construção de um novo Dashboard de manutenção que proporcione ao time de planejamento e de execução uma visibilidade gerencial das atividades de manutenção mais importantes, evidenciando pontos com maior oportunidade de atuação, maior criticidade e permitindo ajustes estratégicos no planejamento e programação.
 
 # 📊 Dados a serem controlados  
-Controle de relatos de condições inseguras. E priorizar a tratativa destas anomalias para eliminar o risco de acidentes. Importante destacar estas atividades e focar na sua solução para proporcionar um ambiente mais seguro para todos.
+**- Controle de relatos de condições inseguras.** 
+Priorizar a tratativa destas anomalias para eliminar o risco de acidentes. Importante destacar estas atividades e focar na sua solução para proporcionar um ambiente mais seguro para todos.  
+![Logo CI](img/solar_ci.png?raw=true)   
+**- Controle de notas de manutenção** pendentes por área, por idade, e por criticidade.  
+![Logo CI](img/solar_notas.png?raw=true)   
+
 
 Formato: (CSV, JSON, Excel, etc.)
 
