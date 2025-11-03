@@ -2,11 +2,11 @@
 Desenvolvimento de um Dashboard de indicadores de manutenção de uma industria de bebidas para consolidar os principais indicadores e facilitar a extração de insights valiosos e gerar decisões mais estratégicas baseadas nos dados do sistema para alavancar resultados.
 
 # 🧩 Problema
-Ao ingressar no time de planejamento de manutenção de uma industria de refrigerante identifiquei uma gama de oportunidades. Entre elas a falta de controle de indicadores do fluxo de atividades da manutenção. A equipe de planejamento centralizava seus esforço basicamente em compra de peças e atuações em manutenções corretivas e emergenciais fora do planejamento. Portanto, a construção de um novo Dashboard seria uma maneira eficiente de proporcionar uma maior visiblidade das principais lacunas que estariam comprometendo a eficiência da equipe de manutenção.
+Ao ingressar no time de planejamento de manutenção de uma industria de refrigerante identifiquei uma gama de oportunidades. Entre elas a falta de controle de indicadores do fluxo de atividades da manutenção. A equipe de planejamento centralizava seus esforço basicamente em compra de peças e atuações em manutenções corretivas e emergenciais fora do planejamento. Portanto, a construção de um novo Dashboard de indicadores seria uma maneira eficiente de proporcionar uma maior visiblidade das principais lacunas que estariam comprometendo a eficiência da equipe de manutenção.
 Exemplos: grande quantidade de notas de manutenção pendentes no sistema e de idade longa; Falta de cumprimento dos planos de manutenção; alto indice de quebras dos equipamentos; falta de controle de backlog (ativiades pendentes) por área; falta de controle de condições inseguras comprimentendo a segurança dos funcionarios e equipamentos; falta de controle das rotinas preditivas (tipos de atividades mais importantes), falta de planejamento da equipe, etc.
 
 # 🎯 Objetivo
-Construção de um novo Dashboard seria uma maneira eficiente de proporcionar uma maior visiblidade das principais lacunas que estariam comprometendo a eficiência da equipe de manutenção..
+Construção de um novo Dashboard de manutenção que proporcione ao time de planejamento e de execução uma visibilidade gerencial das atividades de manutenção mais importantes, evidenciando pontos com maior oportunidade de atuação, maior criticidade e permitindo ajustes estratégicos no planejamento e programação.
 
 # 📊 Conjunto de Dados
 Fonte: (ex: Kaggle, IBGE, dados públicos, etc.)
