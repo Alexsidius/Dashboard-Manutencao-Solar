@@ -2,12 +2,11 @@
 Desenvolvimento de um Dashboard de indicadores de manutenção de uma industria de bebidas para consolidar os principais indicadores e facilitar a extração de insights valiosos e gerar decisões mais sólidas na busca dos resultados.
 
 # 🧩 Problema
-Ao ingressar no time de planejamento de manutenção de uma industria de refrigerante identifiquei uma gama de oportunidades. Entre elas a falta de controle de indicadores do fluxo de manutenção. A equipe centralizava seus esforço basicamente em compra de peças e atuações em manutenções corretivas e emergenciais fora do planejamento. Portanto, a construção de um novo Dashboard seria uma maneira eficiente do time ter uma maior visiblidade das principais lacunas que estariam comprometendo a eficiêncai do fluxo de manutenção.
-Exemplos: grande quantidade de notas de manutenção pendentes e e idade longa; Falta de cumprimento dos planos de manutenção; alto indice de quebras dos equipamentos; falta de controle de backlog (ativiades pendentes) por área; falta de controle de condições inseguras comprimentendo a segurança dos funcionarios e equipamentos; falta de controle das rotinas preditivas (tipos de atividades mais importantes), falta de planejamento da equipe, etc.
+Ao ingressar no time de planejamento de manutenção de uma industria de refrigerante identifiquei uma gama de oportunidades. Entre elas a falta de controle de indicadores do fluxo de atividades da manutenção. A equipe de planejamento centralizava seus esforço basicamente em compra de peças e atuações em manutenções corretivas e emergenciais fora do planejamento. Portanto, a construção de um novo Dashboard seria uma maneira eficiente de proporcionar uma maior visiblidade das principais lacunas que estariam comprometendo a eficiência da equipe de manutenção.
+Exemplos: grande quantidade de notas de manutenção pendentes no sistema e de idade longa; Falta de cumprimento dos planos de manutenção; alto indice de quebras dos equipamentos; falta de controle de backlog (ativiades pendentes) por área; falta de controle de condições inseguras comprimentendo a segurança dos funcionarios e equipamentos; falta de controle das rotinas preditivas (tipos de atividades mais importantes), falta de planejamento da equipe, etc.
 
 # 🎯 Objetivo
-Explique qual é o propósito principal do projeto.
- Exemplo: Construir uma análise exploratória dos dados e gerar insights sobre padrões de comportamento.
+Construção de um novo Dashboard seria uma maneira eficiente de proporcionar uma maior visiblidade das principais lacunas que estariam comprometendo a eficiência da equipe de manutenção..
 
 # 📊 Conjunto de Dados
 Fonte: (ex: Kaggle, IBGE, dados públicos, etc.)
