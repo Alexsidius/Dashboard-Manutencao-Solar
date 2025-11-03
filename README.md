@@ -1,15 +1,15 @@
 # 🧠 Dashboar de manutenção - Solar Coca cola
-Dashboar de indicadores de manutenção de uma industria de bebidas.
+Desenvolvimento de um Dashboard de indicadores de manutenção de uma industria de bebidas para consolidar os principais indicadores e facilitar a extração de insights valiosos e gerar decisões mais sólidas na busca dos resultados.
 
-🧩 Problema
-Descreva de forma clara qual situação ou desafio motivou a criação do projeto.
- Exemplo: Muitos alunos têm dificuldade em visualizar seus desempenhos ao longo do tempo. Este projeto propõe uma forma de análise visual e automatizada dos dados.
+# 🧩 Problema
+Ao ingressar no time de planejamento de manutenção de uma industria de refrigerante identifiquei uma gama de oportunidades. Entre elas a falta de controle de indicadores do fluxo de manutenção. A equipe centralizava seus esforço basicamente em compra de peças e atuações em manutenções corretivas e emergenciais fora do planejamento. Portanto, a construção de um novo Dashboard seria uma maneira eficiente do time ter uma maior visiblidade das principais lacunas que estariam comprometendo a eficiêncai do fluxo de manutenção.
+Exemplos: grande quantidade de notas de manutenção pendentes e e idade longa; Falta de cumprimento dos planos de manutenção; alto indice de quebras dos equipamentos; falta de controle de backlog (ativiades pendentes) por área; falta de controle de condições inseguras comprimentendo a segurança dos funcionarios e equipamentos; falta de controle das rotinas preditivas (tipos de atividades mais importantes), falta de planejamento da equipe, etc.
 
-🎯 Objetivo
+# 🎯 Objetivo
 Explique qual é o propósito principal do projeto.
  Exemplo: Construir uma análise exploratória dos dados e gerar insights sobre padrões de comportamento.
 
-📊 Conjunto de Dados
+# 📊 Conjunto de Dados
 Fonte: (ex: Kaggle, IBGE, dados públicos, etc.)
 
 Formato: (CSV, JSON, Excel, etc.)
@@ -17,7 +17,7 @@ Formato: (CSV, JSON, Excel, etc.)
 Descrição: Explique brevemente o que cada coluna representa.
 
 
-🛠️ Ferramentas e Tecnologias
+# 🛠️ Ferramentas e Tecnologias
 Linguagem: Python
 
 Bibliotecas: Pandas, NumPy, Matplotlib, Seaborn, etc.
@@ -25,7 +25,7 @@ Bibliotecas: Pandas, NumPy, Matplotlib, Seaborn, etc.
 Ambiente: Jupyter Notebook ou VS Code
 
 
-🔍 Etapas do Projeto
+# 🔍 Etapas do Projeto
 Importação e exploração inicial dos dados
 
 Limpeza e tratamento de valores ausentes
@@ -37,11 +37,11 @@ Análise exploratória (EDA) e visualizações
 Conclusões e insights finais
 
 
-📈 Resultados Principais
+# 📈 Resultados Principais
 Apresente de forma resumida os resultados ou descobertas obtidas com o projeto.
  Exemplo: Foi possível identificar que 80% das vendas se concentram em apenas 3 categorias de produtos.
 
-🚀 Como Executar o Projeto
+# 🚀 Como Executar o Projeto
 Clone este repositório
 
  git clone https://github.com/seuusuario/nome-do-projeto.git
@@ -58,17 +58,17 @@ Execute o notebook ou script principal
  python main.py
 
 
-🧭 Próximos Passos
+# 🧭 Próximos Passos
 Liste melhorias ou novas etapas que podem ser adicionadas futuramente.
  Exemplo:
 Adicionar dashboard interativo com Streamlit
 Testar novos algoritmos de previsão
 
 
-👤 Autor
-Alexandro Grigório Ferreira
- 📧 alexanndro@gmail.com
- 🔗 https://www.linkedin.com/in/alexandro-f-54976b33/ 
-🔗 https://github.com/Alexsidius
+# 👤 Autor
+Alexandro Grigório Ferreira  
+📧 alexanndro@gmail.com  
+🔗 https://www.linkedin.com/in/alexandro-f-54976b33/   
+🔗 https://github.com/Alexsidius  
 
 Este projeto faz parte do meu aprendizado em Ciência de Dados e tem como objetivo demonstrar habilidades práticas de análise e visualização.
