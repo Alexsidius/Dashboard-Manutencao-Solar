@@ -1,5 +1,5 @@
 # 🧠 Dashboar de manutenção - Solar Coca cola
-Desenvolvimento de um Dashboard de indicadores de manutenção de uma industria de bebidas para consolidar os principais indicadores e facilitar a extração de insights valiosos e gerar decisões mais sólidas na busca dos resultados.
+Desenvolvimento de um Dashboard de indicadores de manutenção de uma industria de bebidas para consolidar os principais indicadores e facilitar a extração de insights valiosos e gerar decisões mais estratégicas baseadas nos dados do sistema para alavancar resultados.
 
 # 🧩 Problema
 Ao ingressar no time de planejamento de manutenção de uma industria de refrigerante identifiquei uma gama de oportunidades. Entre elas a falta de controle de indicadores do fluxo de atividades da manutenção. A equipe de planejamento centralizava seus esforço basicamente em compra de peças e atuações em manutenções corretivas e emergenciais fora do planejamento. Portanto, a construção de um novo Dashboard seria uma maneira eficiente de proporcionar uma maior visiblidade das principais lacunas que estariam comprometendo a eficiência da equipe de manutenção.
