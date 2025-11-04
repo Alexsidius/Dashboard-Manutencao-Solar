@@ -37,44 +37,26 @@ Importante controlar e melhorar o indice de cumprimento dos planos visto que sã
 - Sistema SAP e Linguagem de Script do sistema SAP
 
 # 🔍 Etapas do Projeto
-Importação e exploração inicial dos dados
-
-Limpeza e tratamento de valores ausentes
-
-Análise exploratória (EDA) e visualizações
-
-(Opcional) Modelagem preditiva ou estatística
-
-Conclusões e insights finais
-
+1 - identificação do problema (alto numero de notas incompletas, dificuldade de tratativas, baixa eficiência na execução;
+2 - Análise e comportamento do fenômeno e entendimento do fluxo correto de tratativas de manutenção;
+3 - levantamento de requisitos para eliminar o problema;
+4 - construção da ferramenta;
+5 - Realização de testes e treinamento da equipe;
+6 - Implantação e acompanhamento da evolução dos indicadores
 
 # 📈 Resultados Principais
-Apresente de forma resumida os resultados ou descobertas obtidas com o projeto.
- Exemplo: Foi possível identificar que 80% das vendas se concentram em apenas 3 categorias de produtos.
-
-# 🚀 Como Executar o Projeto
-Clone este repositório
-
- git clone https://github.com/seuusuario/nome-do-projeto.git
-
-Instale as dependências
-
- pip install -r requirements.txt
-
-Execute o notebook ou script principal
-
- jupyter notebook
- ou
-
- python main.py
+- Evolução de varios indicadores em todas as áreas da planta;
+- Saneamento de notas pendentes mais antigas, eliminação de notas ja resolvidas, aceleração no tratamento de notas criticas;
+- Saneamento de backlog de Ordens, encerramentos de ordens já expiradas/obsoletas, priorização de ordens mais antigas(maior idade).
+- Melhoria no cumprimento de planos de manutenção, melhor no planejamento das atividades semanais.
+- Evolução nos indicadores da manutenção
+- Melhor eficiência nas etapas do fluxo de manutenção.
 
 
 # 🧭 Próximos Passos
-Liste melhorias ou novas etapas que podem ser adicionadas futuramente.
- Exemplo:
-Adicionar dashboard interativo com Streamlit
-Testar novos algoritmos de previsão
-
+- Criação de planilha de programação utilizando a base de ordens do backlog para construir uma programação semanal mais eficiente para todas as áreas;  
+- Criar plano de ação com as saídas da reunião diária de manutenção com uso do Dashboard;  
+- Automatizar Dashboard para importação e atualização das bases extraidas do sistema SAP.  
 
 # 👤 Autor
 Alexandro Grigório Ferreira  
