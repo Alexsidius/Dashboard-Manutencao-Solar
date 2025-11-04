@@ -79,7 +79,7 @@ Testar novos algoritmos de previsão
 # 👤 Autor
 Alexandro Grigório Ferreira  
 📧 alexanndro@gmail.com  
-🔗 https://www.linkedin.com/in/alexandro-f-54976b33/   
+🔗 https://www.linkedin.com/in/alexsidius/   
 🔗 https://github.com/Alexsidius  
 
-Este projeto faz parte do meu aprendizado em Ciência de Dados e tem como objetivo demonstrar habilidades práticas de análise e visualização.
+Este projeto faz parte de minha experiência como Analista de manutenção e estudos práticos para análise e ciência de dados.
