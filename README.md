@@ -1,4 +1,4 @@
-# 🧠 Dashboar de manutenção - Solar Coca cola
+# 🧠 Dashboar de manutenção - Fábrica de refrigerante
 Desenvolvimento de um Dashboard de indicadores de manutenção de uma industria de bebidas para consolidar os principais indicadores e facilitar a extração de insights valiosos e gerar decisões mais estratégicas baseadas nos dados do sistema para alavancar resultados.
 
 # 🧩 Problema
