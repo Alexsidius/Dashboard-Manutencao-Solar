@@ -9,7 +9,7 @@ Exemplos: grande quantidade de notas de manutenção pendentes no sistema e de i
 Construção de um novo Dashboard de manutenção que proporcione ao time de planejamento e de execução uma visibilidade gerencial das atividades de manutenção mais importantes, evidenciando pontos com maior oportunidade de atuação, maior criticidade e permitindo ajustes estratégicos no planejamento e programação.
 
 # 📊 Indicadores a serem controlados  
-**- Controle de relatos de condições inseguras.** 
+**- Controle de relatos de condições inseguras.**  
 Priorizar a tratativa destas anomalias para eliminar o risco de acidentes. Importante destacar estas atividades e focar na sua solução para proporcionar um ambiente mais seguro para todos.  
 ![Logo CI](img/solar_ci.png?raw=true)   
   
@@ -19,22 +19,22 @@ Importante controlar numero de notas pendentes para acelerar essa etapa  para qu
 ![Logo CI](img/solar_notas.png?raw=true)  
 
 **- Controle de backlog**  
-Gráficos demonstrando numero de notas pendentes por área, por idade média, e por criticidade.  
-![Logo CI](img/solar_notas.png?raw=true)   
+Gráficos demonstrando evolução da quantidade de backlog (em Horas) por área para acompanhar onde as pendências estão aumentando ou diminuindo; 
+Grafico de pizza demonstrando como o backlog está distribuido por especialidade (mecânica, elétrica, automação ou predial);  
+Grafico mostrando a especialidade de soldador por área para dar visibilidade da área mais critica nesta especialidade compartilhada.  
+Gráfico exibindo numero de Ordens mais antigas por área (acima de 200 dias de idade), etc.
+![Logo CI](img/solar_backlog.png?raw=true)   
 
-
-Formato: (CSV, JSON, Excel, etc.)
-
-Descrição: Explique brevemente o que cada coluna representa.
+**- Controle de planos de manutenção**  
+Gráficos demonstrando numero de Ordens geradas automaticamente pelo sistema de planos de manutenção. 
+Importante controlar e melhorar o indice de cumprimento dos planos visto que são atividades anteriormente idealizadas importantes para manter o nivel de confiabilidade dos equipamentos.  
+![Logo CI](img/solar_planos.png?raw=true)  
 
 
 # 🛠️ Ferramentas e Tecnologias
-Linguagem: Python
-
-Bibliotecas: Pandas, NumPy, Matplotlib, Seaborn, etc.
-
-Ambiente: Jupyter Notebook ou VS Code
-
+- Excel avançado com graficos e tabelas dinamicas e macros como com fórmulas avançadas para adequar ao contexto de manutenção;
+- Linguagem de programação VBA para otmizar a planilha e automatizar a atualização das bases, extração de dados e lógica das fórmulas avançadas;
+- Sistema SAP e Linguagem de Script do sistema SAP
 
 # 🔍 Etapas do Projeto
 Importação e exploração inicial dos dados
